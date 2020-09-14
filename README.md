@@ -8,13 +8,13 @@
 
 #### Trying to contribute to the Open Source community
 
-#### Red Team beginner on [TryHackMe](https://tryhackme.com/p/mjes)
+#### Hacking everything I can on [TryHackMe](https://tryhackme.com/p/mjes)
 
-<br/>
+<!-- <br/>
 
 [<img align="left" alt="TryHackMe" src="./assets/thm.png" />][thm]
 
-<br/>
+<br/> -->
 <br/>
 
 #### Messing around with anything go related, currently trying to apply DDD to gaming development. 
