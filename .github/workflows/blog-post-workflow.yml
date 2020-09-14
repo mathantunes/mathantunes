@@ -2,7 +2,7 @@ name: Blog Post
 on: 
     schedule:
         - cron: '*/30 * * * *'
-    workflow_dispatch: # Run workflow manually
+    workflow_blog: # Run workflow manually
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
