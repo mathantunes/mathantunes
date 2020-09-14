@@ -11,7 +11,9 @@
 #### Red Team beginner on [TryHackMe](https://tryhackme.com/p/mjes)
 
 <br/>
-<img src="https://tryhackme-badges.s3.amazonaws.com/mjes.png" alt="TryHackMe">
+
+[<img align="left" alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/mjes.png" />][thm]
+
 <br/>
 
 #### Messing around with anything go related, currently trying to apply DDD to gaming development. 
@@ -53,3 +55,4 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/matheus-antunes-de-jesus-b81860112/
+[thm]: https://tryhackme.com/p/mjes
