@@ -49,6 +49,7 @@
 <br/>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//mathantunes/mathantunes/issues/1) in [mathantunes/mathantunes](https://github.com//mathantunes/mathantunes)
 <!--END_SECTION:activity-->
 
 <br/>
