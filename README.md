@@ -37,6 +37,7 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe — Tony The Tiger Walkthrough](https://medium.com/@mjesus/tryhackme-tony-the-tiger-walkthrough-3255ef921ea9?source=rss-a884985f8eb1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
