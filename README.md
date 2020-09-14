@@ -15,7 +15,6 @@ Messing around with anything go related, currently trying to apply DDD to gaming
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathantunes&repo=atari_pingpong_go&theme=tokyonight)](https://github.com/mathantunes/atari_pingpong_go)
 </details>
----
 
 <!-- ### Coding on
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathantunes&hide=css,java&langs_count=7)](https://github.com/mathantunes) -->
