@@ -12,7 +12,6 @@
 <!-- <br/>
 [<img align="left" alt="TryHackMe" src="./assets/thm.png" />][thm]
 <br/> -->
-<br/>
 
 #### Messing around with anything go related, currently trying to apply DDD to gaming development. 
 
