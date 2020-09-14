@@ -2,15 +2,22 @@
 
 ### I am a software engineer from Brazil working at [BTG Pactual](https://www.btgpactualdigital.com/)
 
-<img height="32" width="32" src="https://api.iconify.design/logos-gopher.svg">Golang enthusiast
-* Cloud Architect
-* Trying to contribute to the Open Source community
-* Red Team beginner on [TryHackMe](https://tryhackme.com/p/mjes)
+#### Golang enthusiast
 
-Messing around with anything go related, currently trying to apply DDD to gaming development. 
+#### Cloud Architect
+
+#### Trying to contribute to the Open Source community
+
+#### Red Team beginner on [TryHackMe](https://tryhackme.com/p/mjes)
+
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mjes.png" alt="TryHackMe">
+<br>
+
+#### Messing around with anything go related, currently trying to apply DDD to gaming development. 
 
 <details>
-<summary>⚡ Check out</summary>
+<summary>⚡ Check out </summary>
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathantunes&repo=atari_pingpong_go&theme=tokyonight)](https://github.com/mathantunes/atari_pingpong_go)
