@@ -20,7 +20,7 @@
 #### Messing around with anything go related, currently trying to apply DDD to gaming development. 
 
 <details>
-<summary>⚡ Check out </summary>
+<summary>🎮 Check out </summary>
 <br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathantunes&repo=atari_pingpong_go&theme=tokyonight)](https://github.com/mathantunes/atari_pingpong_go)
