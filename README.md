@@ -10,20 +10,18 @@
 
 #### Red Team beginner on [TryHackMe](https://tryhackme.com/p/mjes)
 
-<br>
-
-![Image](https://tryhackme-badges.s3.amazonaws.com/mjes.png)
-
-<br>
+<br/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mjes.png" alt="TryHackMe">
+<br/>
 
 #### Messing around with anything go related, currently trying to apply DDD to gaming development. 
 
 <details>
 <summary>⚡ Check out </summary>
-<br>
+<br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathantunes&repo=atari_pingpong_go&theme=tokyonight)](https://github.com/mathantunes/atari_pingpong_go)
-<br>
+<br/>
 </details>
 
 <!-- ### Coding on
@@ -33,11 +31,11 @@
 
 <details>
 <summary>⚡ Recent Github Activity</summary>
-<br>
+<br/>
 
 <!--START_SECTION:activity-->
 
-<br>
+<br/>
 </details>
 
 ---
