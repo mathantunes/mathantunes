@@ -11,7 +11,9 @@
 #### Red Team beginner on [TryHackMe](https://tryhackme.com/p/mjes)
 
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/mjes.png" alt="TryHackMe">
+
+![Image](https://tryhackme-badges.s3.amazonaws.com/mjes.png)
+
 <br>
 
 #### Messing around with anything go related, currently trying to apply DDD to gaming development. 
