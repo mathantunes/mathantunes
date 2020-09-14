@@ -14,12 +14,23 @@ Messing around with anything go related, currently trying to apply DDD to gaming
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathantunes&repo=atari_pingpong_go&theme=tokyonight)](https://github.com/mathantunes/atari_pingpong_go)
+<br>
 </details>
 
 <!-- ### Coding on
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathantunes&hide=css,java&langs_count=7)](https://github.com/mathantunes) -->
 
+---
+
+<details>
+<summary>⚡ Recent Github Activity</summary>
+<br>
+
 <!--START_SECTION:activity-->
+
+<br>
+</details>
+
 ---
 
 <details>
@@ -27,6 +38,7 @@ Messing around with anything go related, currently trying to apply DDD to gaming
 <br>
 
 ![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=mathantunes&count_private=true&show_icons=true&theme=tokyonight)
+<br>
 </details>
 
 #### Connect with me:
@@ -34,18 +46,3 @@ Messing around with anything go related, currently trying to apply DDD to gaming
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/matheus-antunes-de-jesus-b81860112/
-
-<!--
-**mathantunes/mathantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
