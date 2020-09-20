@@ -1,6 +1,6 @@
 ### Hello there, I'm Matheus
 
-### I am a software engineer from Brazil working at [BTG Pactual](https://www.btgpactualdigital.com/)
+### I am a software engineer @ [BTG Pactual](https://www.btgpactualdigital.com/)
 
 #### Golang enthusiast
 
