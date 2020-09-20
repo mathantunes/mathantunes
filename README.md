@@ -8,7 +8,7 @@
 
 #### Trying to contribute to the Open Source community
 
-#### Hacking everything I can on [TryHackMe](https://tryhackme.com/p/mjes)
+#### Hacking everything on [TryHackMe](https://tryhackme.com/p/mjes)
 <!-- <br/>
 [<img align="left" alt="TryHackMe" src="./assets/thm.png" />][thm]
 <br/> -->
