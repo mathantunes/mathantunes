@@ -44,7 +44,7 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#298](https://github.com//chromedp/chromedp/issues/298) in [chromedp/chromedp](https://github.com//chromedp/chromedp)
+1. 🗣 Commented on [#298](https://github.com/chromedp/chromedp/issues/298) in [chromedp/chromedp](https://github.com/chromedp/chromedp)
 <!--END_SECTION:activity-->
 </details>
 
