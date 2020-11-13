@@ -4,7 +4,7 @@
 
 #### Golang enthusiast
 
-#### Cloud Architect
+#### Cloud Architect/Developer
 
 #### Trying to contribute to the Open Source community
 
