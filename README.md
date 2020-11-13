@@ -31,7 +31,7 @@
 <details>
   <summary>My Board</summary>
   <br/>
-  <p><img src="https://trello.com/b/B3VyxbpK/self.png" /></p>
+  <p><img src="https://trello.com/b/B3VyxbpK.png" /></p>
 </details>
 
 ---
