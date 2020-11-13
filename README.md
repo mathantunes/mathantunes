@@ -29,9 +29,10 @@
 ---
 
 <details>
-  <summary>My Board</summary>
-  <br/>
-[![Our Trello Board](https://trello.com/b/B3VyxbpK.png)](https://trello.com/b/B3VyxbpK/self)
+<summary>My Board</summary>
+<br/>
+  
+[![Our Trello Board](https://trello.com/b/B3VyxbpK/self.png)](https://trello.com/b/B3VyxbpK/self)
 </details>
 
 ---
