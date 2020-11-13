@@ -31,9 +31,7 @@
 <details>
   <summary>My Board</summary>
   <br/>
-  <code>
-  [![Our Trello Board](https://trello.com/b/B3VyxbpK.png)](https://trello.com/b/B3VyxbpK.html)
-  </code>
+[![Our Trello Board](https://trello.com/b/B3VyxbpK.png)](https://trello.com/b/B3VyxbpK/self)
 </details>
 
 ---
