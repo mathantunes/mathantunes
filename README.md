@@ -28,6 +28,16 @@
 
 ---
 
+---
+<details>
+  <summary>My Board</summary>
+  <br/>
+  <blockquote class="trello-board-compact">
+  <a href="https://trello.com/b/B3VyxbpK/self">Trello Board</a>
+  </blockquote>
+</details>
+---
+
 <details>
 <summary>📖 Medium Posts</summary>
 <br/>
