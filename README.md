@@ -32,7 +32,7 @@
   <summary>My Board</summary>
   <br/>
   <code>
-  [![Our Trello Board](https://trello.com/b/B3VyxbpK.png)](https://trello.com/b/B3VyxbpK)
+  [![Our Trello Board](https://trello.com/b/B3VyxbpK.png)](https://trello.com/b/B3VyxbpK.html)
   </code>
 </details>
 
