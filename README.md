@@ -31,10 +31,7 @@
 <details>
   <summary>My Board</summary>
   <br/>
-  <script src="https://p.trellocdn.com/embed.min.js"></script>
-  <blockquote class="trello-board-compact">
-  <a href="https://trello.com/b/B3VyxbpK/self">Trello Board</a>
-  </blockquote>
+  [Trello Board](https://trello.com/b/B3VyxbpK/self)
 </details>
 
 ---
