@@ -35,6 +35,7 @@
   <blockquote class="trello-board-compact">
   <a href="https://trello.com/b/B3VyxbpK/self">Trello Board</a>
   </blockquote>
+  <script src="https://p.trellocdn.com/embed.min.js"></script>
 </details>
 ---
 
