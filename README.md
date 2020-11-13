@@ -31,7 +31,7 @@
 <details>
   <summary>My Board</summary>
   <br/>
-  <iframe src="https://trello.com/b/B3VyxbpK/self.html" frameBorder="0" width="100%" height="600"></iframe>
+  <p><img src="https://trello.com/b/B3VyxbpK/self.png" /></p>
 </details>
 
 ---
