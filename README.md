@@ -44,7 +44,7 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#298](https://github.com/chromedp/chromedp/issues/298) in [chromedp/chromedp](https://github.com/chromedp/chromedp)
+1. ❌ Closed PR [#52](https://github.com/bitfield/script/pull/52) in [bitfield/script](https://github.com/bitfield/script)
 <!--END_SECTION:activity-->
 </details>
 
