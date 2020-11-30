@@ -76,4 +76,4 @@
 
 [linkedin]: https://www.linkedin.com/in/matheus-antunes-de-jesus-b81860112/
 [thm]: https://tryhackme.com/p/mjes
-[medium]: https://medium.com/feed/@mathantunes
+[medium]: https://mathantunes.medium.com/
