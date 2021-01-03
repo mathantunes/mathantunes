@@ -33,6 +33,7 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda Authorizer — Validating custom JWT tokens](https://medium.com/@mathantunes/aws-lambda-authorizer-validating-custom-jwt-tokens-602fc14df1f0?source=rss-a884985f8eb1------2)
 - [Golang game development, a DDD oriented approach](https://medium.com/@mathantunes/golang-game-development-a-ddd-oriented-approach-9e25818a0d3d?source=rss-a884985f8eb1------2)
 - [TryHackMe — Tony The Tiger Walkthrough](https://medium.com/@mathantunes/tryhackme-tony-the-tiger-walkthrough-3255ef921ea9?source=rss-a884985f8eb1------2)
 <!-- BLOG-POST-LIST:END -->
