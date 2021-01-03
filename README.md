@@ -42,17 +42,6 @@
 ---
 
 <details>
-<summary>⚡ Recent Github Activity</summary>
-<br/>
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#52](https://github.com/bitfield/script/pull/52) in [bitfield/script](https://github.com/bitfield/script)
-<!--END_SECTION:activity-->
-</details>
-
----
-
-<details>
 <summary>⚡ Stats</summary>
 <br/>
 
