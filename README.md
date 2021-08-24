@@ -1,12 +1,10 @@
 ### Hello there, I'm Matheus
 
-### I am a software engineer @ [BTG Pactual](https://www.btgpactualdigital.com/)
+### I am a software engineer @ [Loanboox](https://loanboox.com/)
 
 #### Golang enthusiast
 
 #### Cloud Architect/Developer
-
-#### Trying to contribute to the Open Source community
 
 #### Hacking everything on [TryHackMe](https://tryhackme.com/p/mjes)
 <!-- <br/>
