@@ -31,6 +31,7 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating NextAuth and Azure AD B2C](https://mathantunes.medium.com/integrating-nextauth-and-azure-ad-b2c-4aad907a08cf?source=rss-a884985f8eb1------2)
 - [AWS Lambda Authorizer — Validating custom JWT tokens](https://mathantunes.medium.com/aws-lambda-authorizer-validating-custom-jwt-tokens-602fc14df1f0?source=rss-a884985f8eb1------2)
 - [Golang game development, a DDD oriented approach](https://mathantunes.medium.com/golang-game-development-a-ddd-oriented-approach-9e25818a0d3d?source=rss-a884985f8eb1------2)
 - [TryHackMe — Tony The Tiger Walkthrough](https://mathantunes.medium.com/tryhackme-tony-the-tiger-walkthrough-3255ef921ea9?source=rss-a884985f8eb1------2)
