@@ -1,33 +1,20 @@
 ### Hello there, I'm Matheus
 
-### I am a software engineer @ [Loanboox](https://loanboox.com/)
+### Fullstack software engineer @ [Loanboox](https://loanboox.com/)
 
-#### Golang enthusiast
+![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/23299999/203335882-40e4c8d4-bd28-4a74-b38b-44f32ad0e3e8.png)
+![microsoft-certified-azure-developer-associate 1](https://user-images.githubusercontent.com/23299999/203335896-c8feb0cd-82f2-4560-9b29-17c3839a0e13.png)
 
-#### Cloud Architect/Developer
 
 #### Hacking everything on [TryHackMe](https://tryhackme.com/p/mjes)
 <!-- <br/>
 [<img align="left" alt="TryHackMe" src="./assets/thm.png" />][thm]
 <br/> -->
 
-#### Messing around with anything go related, currently playing around with gaming development. 
-
-<details>
-<summary>🎮 Check out </summary>
-<br/>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mathantunes&repo=atari_pingpong_go&theme=tokyonight)](https://github.com/mathantunes/atari_pingpong_go)
-<br/>
-</details>
-
-<!-- ### Coding on
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathantunes&hide=css,java&langs_count=7)](https://github.com/mathantunes) -->
-
 ---
 
 <details>
-<summary>📖 Medium Posts</summary>
+<summary>📖 Follow me on Medium</summary>
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
