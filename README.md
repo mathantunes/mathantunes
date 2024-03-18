@@ -2,7 +2,7 @@
 
 ### Fullstack software engineer @ [Valora](https://valora.digital/en/)
 
-<image width="60" src="https://user-images.githubusercontent.com/23299999/203335882-40e4c8d4-bd28-4a74-b38b-44f32ad0e3e8.png"> <image width="60" src="https://user-images.githubusercontent.com/23299999/203335896-c8feb0cd-82f2-4560-9b29-17c3839a0e13.png">
+<image width="80" src="https://user-images.githubusercontent.com/23299999/203335882-40e4c8d4-bd28-4a74-b38b-44f32ad0e3e8.png"> <image width="80" src="https://user-images.githubusercontent.com/23299999/203335896-c8feb0cd-82f2-4560-9b29-17c3839a0e13.png">
 
 
 #### Hacking everything on [TryHackMe](https://tryhackme.com/p/mjes)
